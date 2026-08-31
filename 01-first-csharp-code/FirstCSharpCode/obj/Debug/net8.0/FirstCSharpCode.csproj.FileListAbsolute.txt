@@ -12,3 +12,4 @@ C:\Users\herod\Documents\cse325-dotnet\01-first-csharp-code\FirstCSharpCode\obj\
 C:\Users\herod\Documents\cse325-dotnet\01-first-csharp-code\FirstCSharpCode\obj\Debug\net8.0\FirstCSharpCode.pdb
 C:\Users\herod\Documents\cse325-dotnet\01-first-csharp-code\FirstCSharpCode\obj\Debug\net8.0\FirstCSharpCode.genruntimeconfig.cache
 C:\Users\herod\Documents\cse325-dotnet\01-first-csharp-code\FirstCSharpCode\obj\Debug\net8.0\ref\FirstCSharpCode.dll
+C:\Users\herod\Documents\cse325-dotnet\01-first-csharp-code\FirstCSharpCode\obj\Debug\net8.0\FirstCSharpCode.sourcelink.json
